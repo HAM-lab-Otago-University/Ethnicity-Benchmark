@@ -4,7 +4,7 @@
 This repository contains the analysis and modelling scripts for the study:
 
 > **Khakpoor, F.L., van der Vliet, W., Deng, J., & Pat, N. (2025).  
-> Systematic Benchmarking of Ethnicity-Related Bias in MRI-Based Cognitive Prediction.**
+> When Brain Models Aren’t Universal: Benchmarking of Ethnic Bias in MRI-Based Cognitive Prediction Across Modalities**
 
 The project investigates how predictive models trained on MRI-derived features generalize across ethnic groups, using data from the **Adolescent Brain Cognitive Development (ABCD)** study.
 
