@@ -5,7 +5,8 @@ This repository contains the analysis and modelling scripts for the study:
 
 > **Khakpoor, F.L., van der Vliet, W., Deng, J., & Pat, N. (2025).  
 > When Brain Models Aren’t Universal: Benchmarking of Ethnic Bias in MRI-Based Cognitive Prediction Across Modalities**
-> Preprint: https://www.biorxiv.org/cgi/content/short/2025.11.12.688133v1
+>
+>  Preprint: https://www.biorxiv.org/cgi/content/short/2025.11.12.688133v1
 
 The project investigates how predictive models trained on MRI-derived features generalize across ethnic groups, using data from the **Adolescent Brain Cognitive Development (ABCD)** study.
 
